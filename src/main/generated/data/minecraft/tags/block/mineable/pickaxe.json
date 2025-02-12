@@ -1,0 +1,10 @@
+{
+  "values": [
+    "ethermod:ice_ether_block",
+    "ethermod:raw_ice_ether_block",
+    "ethermod:ice_ether_ore",
+    "ethermod:fire_ether_block",
+    "ethermod:raw_fire_ether_block",
+    "ethermod:fire_ether_ore"
+  ]
+}
