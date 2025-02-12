@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ethermod:raw_fire_ether_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "ethermod:raw_fire_ether"
+  }
+}

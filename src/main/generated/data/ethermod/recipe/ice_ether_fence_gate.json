@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "ethermod:ice_ether_block"
+    },
+    "X": {
+      "item": "ethermod:ice_ether"
+    }
+  },
+  "pattern": [
+    "X#X",
+    "X#X"
+  ],
+  "result": {
+    "count": 1,
+    "id": "ethermod:ice_ether_fence_gate"
+  }
+}

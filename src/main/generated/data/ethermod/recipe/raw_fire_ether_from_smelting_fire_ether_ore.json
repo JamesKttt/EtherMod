@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "raw_fire_ether",
+  "ingredient": {
+    "item": "ethermod:fire_ether_ore"
+  },
+  "result": {
+    "id": "ethermod:raw_fire_ether"
+  }
+}

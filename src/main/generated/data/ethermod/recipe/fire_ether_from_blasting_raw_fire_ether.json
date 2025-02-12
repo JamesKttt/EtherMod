@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "fire_ether",
+  "ingredient": {
+    "item": "ethermod:raw_fire_ether"
+  },
+  "result": {
+    "id": "ethermod:fire_ether"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "ethermod:ice_ether"
+    },
+    "X": {
+      "item": "minecraft:lime_wool"
+    }
+  },
+  "pattern": [
+    "  #",
+    "# #",
+    "#X#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "ethermod:ice_ether_horse_armor"
+  }
+}

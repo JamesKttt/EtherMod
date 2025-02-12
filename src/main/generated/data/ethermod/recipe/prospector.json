@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "K": {
+      "item": "minecraft:redstone"
+    },
+    "T": {
+      "item": "minecraft:iron_ingot"
+    },
+    "X": {
+      "item": "minecraft:compass"
+    },
+    "Z": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "TXT",
+    "#K#",
+    "#Z#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "ethermod:prospector"
+  }
+}
